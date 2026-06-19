@@ -1,8 +1,11 @@
 <h1 align="center">Hey 👋 I'm Augustine</h1>
-
 <p align="center">
   Senior AI Engineer · Lagos → Remote · 7 years building things at scale<br/>
   I build AI systems that go to production and stay there.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=augustineezinwa&label=Profile%20views&color=0e75b6&style=flat" alt="augustineezinwa" />
 </p>
 
 ###
