@@ -67,8 +67,13 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=augustineezinwa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=augustineezinwa&theme=dracula&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=augustineezinwa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=augustineezinwa&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" alt="trophy graph" />
 </div>
 
 ###
